@@ -1,4 +1,12 @@
 
+.container {
+    margin: 0 auto;
+}
 .top-box {
     background-image: url("./images/sad-dog.jpeg");
+    height: 640px;
+}
+
+.sign-up {
+    width: 500px;
 }
