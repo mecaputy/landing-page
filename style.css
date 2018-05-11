@@ -5,6 +5,8 @@
 .top-box {
     background-image: url("./images/sad-dog.jpeg");
     width: 960px;
+    padding-top: 10px;
+ 
 }
 
 .sign-up {
@@ -12,7 +14,7 @@
     float: left;
     color: white;
     text-align: center;
-    padding-top: 350px;
+    padding-top: 250px;
     padding-left: 50px;
     margin-left: 200px;
     padding-bottom: 20px;
@@ -22,25 +24,28 @@
 .header {
     text-align: center;
     color: white;
-    font-family: 'Lovers Quarrel', cursive;
+    font-family: 'Pangolin', cursive;
+    /* font-family: 'Lovers Quarrel', cursive; */
 
 }
 
-<<<<<<< HEAD
-/* 
-.image-label {
-    position: absolute;
-    background-color: #4aaaa5;
-    color: #dddddd;
-    text-align: center;
-    font-size: 20px;
-    margin: 0 auto;
-    padding-top: 10px;
-    height: 30px;
-    bottom: 25px;
-    width: 100%; */
-=======
 .success {
     display: block;
+    text-align: center;
+    margin: 100px;
+    font-family: 'Pangolin', cursive;
+    color: rgb(211, 54, 54);
 }
->>>>>>> 35f3cac217d13c0bbddb7ab95dcabab59a70ca75
+.img {
+    /* position: absolute; */
+    /* float: left; */
+    margin: 50px;
+    padding-top: 50px;
+    width:  100px;
+    height: 100px;
+    /* border: 10px;
+    border-style: solid;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover; */
+}
