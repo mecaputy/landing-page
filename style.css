@@ -4,9 +4,6 @@
 }
 .top-box {
     background-image: url("./images/sad-dog.jpeg");
-    position: absolute;
-    overflow: auto;
-    height: 640px;
     width: 960px;
 }
 
@@ -29,6 +26,7 @@
 
 }
 
+<<<<<<< HEAD
 /* 
 .image-label {
     position: absolute;
@@ -41,3 +39,8 @@
     height: 30px;
     bottom: 25px;
     width: 100%; */
+=======
+.success {
+    display: block;
+}
+>>>>>>> 35f3cac217d13c0bbddb7ab95dcabab59a70ca75
