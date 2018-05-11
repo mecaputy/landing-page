@@ -4,9 +4,6 @@
 }
 .top-box {
     background-image: url("./images/sad-dog.jpeg");
-    position: absolute;
-    overflow: auto;
-    height: 640px;
     width: 960px;
 }
 
@@ -27,4 +24,8 @@
     color: white;
     font-family: 'Lovers Quarrel', cursive;
 
+}
+
+.success {
+    display: block;
 }
